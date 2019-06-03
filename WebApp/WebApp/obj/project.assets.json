@@ -12536,11 +12536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\takun\\Documents\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "F:\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\takun\\Documents\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\takun\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\takun\\Documents\\GitHub\\ASP.NET_Core_Practice\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
